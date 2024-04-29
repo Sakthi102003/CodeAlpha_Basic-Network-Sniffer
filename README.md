@@ -1,0 +1,4 @@
+It has the use of
+Network troubleshooting: A network sniffer can be used to capture and analyze network traffic to help identify and diagnose network issues. For example, you can use a sniffer to see if packets are being dropped, if there are any errors in the packets, or if there is any unusual network activity.
+Security monitoring: A network sniffer can be used to monitor network traffic for security threats, such as malware, viruses, or unauthorized access. By capturing and analyzing network traffic, you can identify suspicious activity and take appropriate action.
+Network performance monitoring: A network sniffer can be used to monitor network performance by capturing and analyzing network traffic. You can use a sniffer to measure network latency, packet loss, and other performance metrics.
